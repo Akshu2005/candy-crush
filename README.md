@@ -4,7 +4,7 @@ LINK: https://vercel.com/akshu2005s-projects/candy-crush
 
 A fun and colorful Candy Crush game built using **TypeScript**, with a fully interactive UI and smooth gameplay mechanics — crush those candies, match them all, and score big! 🧠✨
 
-![candy-crush-banner](https://github.com/Akshu2005/candy-crush/assets/your-image-id/banner.png) <!-- (Optional: Add a banner image if you have one) -->
+![candy-crush-banner](C:\Users\Akanksha Srivastava\OneDrive\Pictures\Screenshots\Screenshot (390).png) <!-- (Optional: Add a banner image if you have one) -->
 
 ---
 
