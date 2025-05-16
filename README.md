@@ -1,6 +1,6 @@
 # 🍬 Candy Crush – TypeScript Edition
 
-LINK: https://vercel.com/akshu2005s-projects/candy-crush
+LINK: https://candy-crush-delta-seven.vercel.app/
 
 A fun and colorful Candy Crush game built using **TypeScript**, with a fully interactive UI and smooth gameplay mechanics — crush those candies, match them all, and score big! 🧠✨
 
